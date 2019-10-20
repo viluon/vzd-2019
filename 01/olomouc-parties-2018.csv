@@ -1,13 +1,19 @@
-nazev,hlasy abs,hlasy %,zastupitele abs,zastupitele %
+cislo,nazev,hlasy abs,hlasy %,pocet kandidatu,prepocteny zaklad,zastupitele %,zastupitele abs,podily hlasu
 
 
-Křesťanská a demokratická unie - Československá strana lidová,20 192,"8,35",4,"8,89"
-Strana zelených,16 581,"6,85",1,"2,22"
-Česká strana sociálně demokratická,59 673,"24,66",14,"31,11"
-Komunistická strana Čech a Moravy,27 257,"11,27",5,"11,11"
-Občanská demokratická strana,88 178,"36,44",21,"46,67"
-Moravané,878,"0,36",0,"0,00"
-Republikáni Miroslava Sládka,593,"0,25",0,"0,00"
-NEZÁVISLÍ DEMOKRATÉ,2 566,"1,06",0,"0,00"
-"Sdružení NV, NK",14 044,"5,80",0,"0,00"
-"Koalice SOS, SNK ED, Z",11 997,"4,96",0,"0,00"
+1,Křesť.demokr.unie-Čs.str.lid.,95 688,"7,41",45,"1 291 432,00","7,40",4,X
+2,Strana zelených,24 789,"1,92",45,"1 291 432,00","1,91",0,-
+3,SPD T.OKAMURA a SPO ZEMANOVCI,71 958,"5,57",45,"1 291 432,00","5,57",3,X
+4,Komunistická str.Čech a Moravy,68 351,"5,29",45,"1 291 432,00","5,29",2,X
+5,TOP 09 a nezávislí,56 648,"4,39",45,"1 291 432,00","4,38",0,-
+6,NAŠE KRÁSNÁ OLOMOUC,17 432,"1,35",45,"1 291 432,00","1,34",0,-
+7,"Svobodní, Soukr. a Volba OK",13 229,"1,02",45,"1 291 432,00","1,02",0,-
+8,ANO 2011,344 398,"26,67",45,"1 291 432,00","26,66",14,X
+9,JAUNER Československo 2018,1 960,"0,15",45,"1 291 432,00","0,15",0,-
+10,"SPR-REP.STR.ČECH,MORAVY,SLEZ.",2 294,"0,18",37,"1 061 844,08","0,21",0,-
+11,ProOlomouc,156 378,"12,11",45,"1 291 432,00","12,10",6,X
+12,PIRÁTI A STAROSTOVÉ,154 271,"11,95",45,"1 291 432,00","11,94",6,X
+13,spOLečně,76 597,"5,93",45,"1 291 432,00","5,93",3,X
+14,Občanská demokratická strana,140 900,"10,91",45,"1 291 432,00","10,91",5,X
+15,Moravské zemské hnutí,1 877,"0,15",22,"631 366,75","0,29",0,-
+16,Česká str.sociálně demokrat.,64 662,"5,01",45,"1 291 432,00","5,00",2,X
